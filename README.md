@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-👨‍💻 All of my projects are available at [vnsproportfolio.netlify.app](https://vnsproportfolio.netlify.app/)
+👨‍💻 All of my projects are available at [Portfolio](https://priyanshu006.netlify.app/)
 
 - 💬 Ask me about **React, Tailwind-css**
 
